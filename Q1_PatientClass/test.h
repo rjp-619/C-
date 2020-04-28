@@ -2,7 +2,7 @@
 //      Author:       Rajas Patil(RJP)
 //      Date:         26th April, 2020
 //      Description:  Input Patient Information and sort it. Make a Patient Class.
-//      Vesrion:      g++ version 9.3.0
+//      Version:      g++ version 9.3.0
 //
 //      This is test.h file
 //********************************************************************************************** //     
