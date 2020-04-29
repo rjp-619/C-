@@ -1,3 +1,12 @@
+//********************************************************************************************** //
+//	Author:       Rajas Patil(RJP)
+//	Date:         4th April, 2020
+//	Description:  Counting total Punctuations
+//	Version:      g++ version 9.3.0
+//
+//	This is main.cpp file
+//********************************************************************************************** //
+
 #include<iostream>
 #include<cstring>
 using namespace std;
